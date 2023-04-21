@@ -72,7 +72,7 @@ body.dark-mode {
 
 /* Hero section */
 .hero-section {
-    background-image: url("https:source.unsplash.com/1600x900/?romania");
+    background-image: url("https://source.unsplash.com/1600x900/?romania");
     height: calc(100vh - 60px);
     display:flex;
     justify-content: center;
