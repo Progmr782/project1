@@ -1,0 +1,30 @@
+{
+    "Proiecte":[
+        {
+            "nume":"Memory Game",
+            "descriere": "un memory game, adica un joc cu carti care trebuie grupate in perechi",
+            "img": "./img/memory_game.png",
+            "link": "./proiecte/Memory_Game/index.html"
+        },
+
+        {
+            "nume": "Digital Alarm",
+            "descriere": "o alarma in browser",
+            "img": "./img/alarm.png",
+            "link": "./proiecte/digital alarm/index.html"
+        },
+
+            {"nume": "Backround generator",
+            "descriere": "un generator random de fundaluri ",
+            "img": "./img/Bg_generator.png",
+            "link": "./Bg generator/index.html"
+        },
+        {
+            "nume": "Math game",
+            "descriere": "un joc matematic pentru imbunatatirea reflexelor matematice",
+            "img": "./img/alarm.png",
+            "link": "./math game/index.html"
+        }
+
+    ]
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Digital Alarm clock</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+        <link rel="stylesheet" href="style.css">
+
+        <script src="clock.js" defer></script>
+    </head>
+    <body>
+        <div id="clock-container">
+            <div class="clock-display">
+                <div id="container-data"></div>
+                <span id="container-hour"></span> :
+                <span id="container-min"></span> :
+                <span id="container-sec"></span> 
+            </div>
+            <div class="alarm-display">
+                <select id="alarm-ora"></select>
+                <select id="alarm-min"></select>
+                <select id="alarm-sec"></select>
+
+                <button onclick="setAlarm()">Set Alarm</button>
+                <button onclick="cancelAlarm()">Cancel Alarm</button>
+            </div>
+        </div>
+
+    </body>
+</html>

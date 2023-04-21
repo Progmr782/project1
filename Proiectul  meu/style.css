@@ -1,0 +1,45 @@
+#T1 {
+    font-size: 100px;
+}
+
+#primu {
+    color: darkblue;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+.T2 {
+    font-size: 100px;
+}
+
+.nr2 {
+    text-align: right;
+}
+
+.Nr2 {
+    text-align: left;
+    margin: 50px;
+    font-size: 80px;
+}
+
+
+#t3 {
+    text-align: center;
+    font-size: 100px;
+}
+
+body {
+   background-image: url(yummy.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+#nr3 {
+    font-size: 100px;
+    color: black;
+}
+
+t4 {
+    text-align: center;
+}
